@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Rozwiąż zadania ze strony 42",
+    "subject": "Matematyka",
+    "deadline": "2026-10-20",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Przeczytaj rozdział lektury",
+    "subject": "Polski",
+    "deadline": "2026-11-05",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Powtórz słówka",
+    "subject": "Angielski",
+    "deadline": "2026-10-19",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Narysuj figury geometryczne",
+    "subject": "Matematyka",
+    "deadline": "2026-11-06",
+    "completed": false
+  }
+]

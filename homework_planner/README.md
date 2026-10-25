@@ -1,0 +1,1 @@
+Prosta aplikacja do zapisywania i planowania pracy domowych
